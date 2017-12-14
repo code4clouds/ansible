@@ -6,7 +6,6 @@
 # GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
 
 from __future__ import absolute_import, division, print_function
-from azure.mgmt.network.v2015_06_15.models.load_balancer import LoadBalancer
 __metaclass__ = type
 
 
